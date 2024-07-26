@@ -3,7 +3,7 @@ public class CameraMove : MonoBehaviour
 {
     bool IS_DPRESSED;
     bool IS_APRESSED;
-    public float moveSpeed = 5f; // Velocidad de movimiento de la cámara
+    public float moveSpeed = 5f; // Velocidad de movimiento de la cï¿½mara
 
     // Start is called before the first frame update
     void Start()
